@@ -6,3 +6,5 @@ Predecir el riesgo de enfermedad cardíaca usando las respuestas de la encuesta 
 Explorar si un subconjunto de preguntas puede ayudar en la detección preventiva de enfermedades cardíacas.
 Conjunto de Datos
 El conjunto de datos contiene 253,680 respuestas depuradas y 330 características. La clasificación se centra en predecir la presencia de enfermedades cardíacas.
+
+La descripción completa de las columnas del dataset está disponible en el archivo [Heart_Disease_Dataset_Description.md](Heart_Disease_Dataset_Description.md).
